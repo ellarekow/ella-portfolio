@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ella-portfolio/static/css/main.a07f562f.chunk.css",
-    "main.js": "/ella-portfolio/static/js/main.67fd0546.chunk.js",
-    "main.js.map": "/ella-portfolio/static/js/main.67fd0546.chunk.js.map",
-    "runtime-main.js": "/ella-portfolio/static/js/runtime-main.37ca0923.js",
-    "runtime-main.js.map": "/ella-portfolio/static/js/runtime-main.37ca0923.js.map",
-    "static/css/2.d64471e2.chunk.css": "/ella-portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.d17e226f.chunk.js": "/ella-portfolio/static/js/2.d17e226f.chunk.js",
-    "static/js/2.d17e226f.chunk.js.map": "/ella-portfolio/static/js/2.d17e226f.chunk.js.map",
+    "main.css": "/ella-portfolio/static/css/main.d456b4fd.chunk.css",
+    "main.js": "/ella-portfolio/static/js/main.502301e8.chunk.js",
+    "main.js.map": "/ella-portfolio/static/js/main.502301e8.chunk.js.map",
+    "runtime-main.js": "/ella-portfolio/static/js/runtime-main.089e9f0e.js",
+    "runtime-main.js.map": "/ella-portfolio/static/js/runtime-main.089e9f0e.js.map",
+    "static/css/2.3eb2a443.chunk.css": "/ella-portfolio/static/css/2.3eb2a443.chunk.css",
+    "static/js/2.071cc6f6.chunk.js": "/ella-portfolio/static/js/2.071cc6f6.chunk.js",
+    "static/js/2.071cc6f6.chunk.js.map": "/ella-portfolio/static/js/2.071cc6f6.chunk.js.map",
     "index.html": "/ella-portfolio/index.html",
-    "precache-manifest.d2785a13a90afaf3ace9cfa498037b2d.js": "/ella-portfolio/precache-manifest.d2785a13a90afaf3ace9cfa498037b2d.js",
+    "precache-manifest.c335a1e29562a2b10678b9af6523d175.js": "/ella-portfolio/precache-manifest.c335a1e29562a2b10678b9af6523d175.js",
     "service-worker.js": "/ella-portfolio/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/ella-portfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.a07f562f.chunk.css.map": "/ella-portfolio/static/css/main.a07f562f.chunk.css.map",
-    "static/js/2.d17e226f.chunk.js.LICENSE.txt": "/ella-portfolio/static/js/2.d17e226f.chunk.js.LICENSE.txt"
+    "static/css/2.3eb2a443.chunk.css.map": "/ella-portfolio/static/css/2.3eb2a443.chunk.css.map",
+    "static/css/main.d456b4fd.chunk.css.map": "/ella-portfolio/static/css/main.d456b4fd.chunk.css.map",
+    "static/js/2.071cc6f6.chunk.js.LICENSE.txt": "/ella-portfolio/static/js/2.071cc6f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37ca0923.js",
-    "static/css/2.d64471e2.chunk.css",
-    "static/js/2.d17e226f.chunk.js",
-    "static/css/main.a07f562f.chunk.css",
-    "static/js/main.67fd0546.chunk.js"
+    "static/js/runtime-main.089e9f0e.js",
+    "static/css/2.3eb2a443.chunk.css",
+    "static/js/2.071cc6f6.chunk.js",
+    "static/css/main.d456b4fd.chunk.css",
+    "static/js/main.502301e8.chunk.js"
   ]
 }
