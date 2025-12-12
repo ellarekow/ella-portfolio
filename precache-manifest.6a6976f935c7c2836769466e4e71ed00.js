@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55fe904ddcd76abff8a11820d0cba640",
+    "revision": "a84f3a16f8342291dd49bd151fa1a079",
     "url": "/ella-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ella-portfolio/static/css/2.3eb2a443.chunk.css"
   },
   {
-    "revision": "d2fc07089c78f1aa4344",
+    "revision": "d0b93cbaa9a10101dbf9",
     "url": "/ella-portfolio/static/css/main.d456b4fd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ella-portfolio/static/js/2.071cc6f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2fc07089c78f1aa4344",
-    "url": "/ella-portfolio/static/js/main.502301e8.chunk.js"
+    "revision": "d0b93cbaa9a10101dbf9",
+    "url": "/ella-portfolio/static/js/main.3785db80.chunk.js"
   },
   {
     "revision": "bb6e85418a6c29c3fd50",
