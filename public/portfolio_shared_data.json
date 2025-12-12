@@ -24,74 +24,89 @@
         "class": "fab fa-linkedin"
       }
     ],
-    "image": "mewithsophie.jpg"
+    "image": "mewithsummer.jpg"
   },
   "skills": {
     "icons": [
       {
         "name": "HTML 5",
         "class": "devicon-html5-plain",
-        "level": "95"
+        "level": "100"
       },
       {
         "name": "CSS 3",
         "class": "devicon-css3-plain",
-        "level": "95"
+        "level": "100"
       },
       {
         "name": "React",
         "class": "devicon-react-original",
-        "level": "80"
+        "level": "100"
       },
       {
         "name": "VueJS",
         "class": "devicon-vuejs-plain",
-        "level": "80"
+        "level": "100"
       },
       {
         "name": "Java",
         "class": "devicon-java-plain",
-        "level": "80"
+        "level": "100"
       },
       {
         "name": "TypeScript",
         "class": "devicon-typescript-plain",
-        "level": "90"
+        "level": "100"
       },
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
-        "level": "70"
+        "level": "100"
       },
       {
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
-        "level": "85"
+        "level": "100"
       },
       {
         "name": "MaterialUI",
         "class": "devicon-materialui-plain",
-        "level": "85"
+        "level": "100"
       },
       {
         "name": "C#",
         "class": "devicon-csharp-plain",
-        "level": "65"
+        "level": "100"
       },
       {
         "name": "C",
         "class": "devicon-c-plain",
-        "level": "65"
+        "level": "100"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "100"
       },
       {
         "name": "MySql",
         "class": "devicon-mysql-plain",
-        "level": "60"
+        "level": "100"
       },
       {
         "name": "GraphQL",
         "class": "devicon-graphql-plain",
-        "level": "20"
+        "level": "100"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-graphql-plain",
+        "level": "100"
+      },
+      {
+        "name": "Ada",
+        "class": "devicon-thealgorithms-plain",
+        "level": "100"
       }
     ]
   }

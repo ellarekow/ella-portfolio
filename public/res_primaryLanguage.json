@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Ella Rekow. I am a Senior studying Software Engineering at Iowa State. I love doing art, climbing, game development and more in my free time along with promoting kindness in the tech community though my TikTok platform. I also love learning new things in the tech world!",
+    "description": "👋 I'm Ella Rekow. I am a Software Engineering who graduated from Iowa State in May of 2024. A couple things I love (in no particular order) are my houseplants, hiking, and my rescue dog Summer. I would like to think I am known promoting kindness in the tech community though my TikTok platform and more recently improving the safety of aircraft software. I also love learning, from the biology of the plants I own, to history both recent and far past, to the quickly changing advancements in current tech! (I am not kidding I love reading academic papers in my free time just ask me about it). While this website could always be updated I hope it gives you a glimpse into some of the highlights in my overall career!",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -55,6 +55,27 @@
     }
   ],
   "experience": [
+    {
+      "company": "Performance Software",
+      "title": "Software Engineer",
+      "years": "06.2022 - 07.2023",
+      "mainTech": [
+        "Fixed and Rotary wing aircraft",
+        "Real time embedded software",
+        "System and Requirements development",
+        "Requirement driven testing"
+      ],
+      "technologies": [
+        "Ada",
+        "Python",
+        "Cockpit displays",
+        "LRU interfacing",
+        "IP/UDP Ethernet NDOs",
+        "DOORS",
+        "Jama",
+        "Jira"
+      ]
+    },
     {
       "company": "Netsmart",
       "title": "Front-End Developer Intern",
